@@ -13,13 +13,6 @@ Watch this repo to get alerts about this project.
 * Stores Access Token from OAuth with Local Storage, giving this webapp ***persistance***
 * Read + Write (at least what *can* be written while mobile, stars, followers, issues, etc) 
 
-## What has been done?
-### 1-8-2013
-* Consolidation, organization, gettin this mofo off the ground
-* Login Screen synchronizes access token between local storage and session storage for ease of access
-* Complete OAuth flow within a webapp (never navigates to Mobile Safari)
-* First poll of actual News Feed (If anyone could answer my question at the very bottom, I'd appreciate it!)
-
 ## What are you going to do?
 
 * The entire GitHub Dashboard
@@ -46,3 +39,16 @@ Just kidding, It will be open sourced on GitHub under the MIT license. The curre
 And for the screens:
 
 * <a href="http://www.pixeden.com/psd-mock-up-templates/3/4-view-iphone-5-psd-vector-mockup" target="_blank">3/4 View iPhone 5</a>
+
+
+## Changelog: What has been done?
+### 1-8-2013
+* Consolidation, organization, gettin this mofo off the ground
+* Login Screen synchronizes access token between local storage and session storage for ease of access
+* Complete OAuth flow within a webapp (never navigates to Mobile Safari)
+* First poll of actual News Feed (If anyone could answer my question at the very bottom, I'd appreciate it!)
+### 1-9-2013
+* Initial Issues list
+* Starred Repos List
+* Created Sexy GitHub-like Modals
+* Beginnings of User Profiles
