@@ -42,14 +42,15 @@ And for the screens:
 
 
 ## Changelog: What has been done?
+### 1-9-2013
+* Initial Issues list
+* Starred Repos List
+* Created Sexy GitHub-like Modals
+* Started User Profiles
+* Updated Event bindings
+
 ### 1-8-2013
 * Consolidation, organization, gettin this mofo off the ground
 * Login Screen synchronizes access token between local storage and session storage for ease of access
 * Complete OAuth flow within a webapp (never navigates to Mobile Safari)
 * First poll of actual News Feed (If anyone could answer my question at the very bottom, I'd appreciate it!)
-
-### 1-9-2013
-* Initial Issues list
-* Starred Repos List
-* Created Sexy GitHub-like Modals
-* Beginnings of User Profiles
