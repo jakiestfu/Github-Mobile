@@ -4,8 +4,10 @@ Github Mobile
 Watch this repo to get alerts about this project.
 
 <img src="https://forrst-production.s3.amazonaws.com/multiposts/images/27641/multi.jpg">
+<img src="http://i.imgur.com/bO9dN.png">
 
-<b><u>View the retinas for the <a href="http://i.imgur.com/fqvBh.png">Login Screen</a> and the <a href="http://i.imgur.com/inVkZ.png">News Feed</a></u></b>
+* <b><u>View the retinas for the <a href="http://i.imgur.com/fqvBh.png">Login Screen</a> and the <a href="http://i.imgur.com/inVkZ.png">News Feed</a></u></b>
+* <b><u>View the retinas for the <a href="http://i.imgur.com/RTyzm.png">Profiles</a> and the <a href="http://i.imgur.com/mrtUb.png">Modal Dialogs</a></u></b>
 
 ## What should I know?
 * I've only worked on it a single day, obviously it's not released yet, just want to clarify right away
@@ -42,6 +44,13 @@ And for the screens:
 
 
 ## Changelog: What has been done?
+### 1-10-2013
+* Tightened up authentification on later calls to the GitHub API
+* Created Profiles
+* Profiles include the shiny new Contributions Graph that can be scrolled horizantally
+* Follow/Unfollow Functionality
+* Modal Implementation
+
 ### 1-9-2013
 * Initial Issues list
 * Starred Repos List
