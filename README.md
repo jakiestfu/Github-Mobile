@@ -7,7 +7,7 @@ v
 
 * <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/login_v1.png">Login Screen</a> and the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/news_v1.png">News Feed</a></u></b>
 * <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/profiles_v1.png">Profiles V1</a> and the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/modals_v1.png">Modal Dialogs</a></u></b>
-* <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/profiles_v2.png">Profiles V2</a>, <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/activity_list.png">Activities</a>, <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/starred_lst.png">Starred Repos</a>, and <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/repo_list.png">Repos list</a></u></b>
+* <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/profiles_v2.png">Profiles V2</a>, <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/activity_list.png">Activities</a>, <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/starred_list.png">Starred Repos</a>, and <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/repo_list.png">Repos list</a></u></b>
 
 
 ## What should I know?
@@ -45,6 +45,14 @@ And for the screens:
 
 
 ## Changelog: What has been done?
+### 1-11-2013
+* Created Starred List
+* Created User Activities List
+* Created Repository List
+* Tweaked Profile design
+* Star/Unstar functionality
+* Updates to Push.js, might be the only js used from Ratchet
+
 ### 1-10-2013
 * Tightened up authentification on later calls to the GitHub API
 * Created Profiles
