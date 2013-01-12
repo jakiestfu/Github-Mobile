@@ -6,7 +6,7 @@ Watch this repo to get alerts about this project.
 <img src="https://forrst-production.s3.amazonaws.com/multiposts/images/27641/multi.jpg">
 <img src="http://i.imgur.com/bO9dN.png">
 
-* <b><u>View the retinas for the <a href="http://i.imgur.com/fqvBh.png">Login Screen</a> and the <a href="http://i.imgur.com/inVkZ.png">News Feed</a></u></b>
+* <b><u>View the retinas for the <a href="screens/real/login_v1.png">Login Screen</a> and the <a href="http://i.imgur.com/inVkZ.png">News Feed</a></u></b>
 * <b><u>View the retinas for the <a href="http://i.imgur.com/RTyzm.png">Profiles</a> and the <a href="http://i.imgur.com/mrtUb.png">Modal Dialogs</a></u></b>
 
 ## What should I know?
