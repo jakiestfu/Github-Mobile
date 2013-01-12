@@ -2,12 +2,14 @@ Github Mobile
 =============
 
 Watch this repo to get alerts about this project.
+v
+<img src="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/vanity/vanity.jpeg">
+<img src="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/vanity/profiles_v1.png">
 
-<img src="https://forrst-production.s3.amazonaws.com/multiposts/images/27641/multi.jpg">
-<img src="http://i.imgur.com/bO9dN.png">
+* <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/login_v1.png">Login Screen</a> and the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/news_v1.png">News Feed</a></u></b>
+* <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/profiles_v1.png">Profiles V1</a> and the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/modals_v1.png">Modal Dialogs</a></u></b>
+* <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/profiles_v2.png">Profiles V2</a>, <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/activity_list.png">Activities</a>, <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/starred_lst.png">Starred Repos</a>, and <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/repo_list.png">Repos list</a></u></b>
 
-* <b><u>View the retinas for the <a href="screens/real/login_v1.png">Login Screen</a> and the <a href="http://i.imgur.com/inVkZ.png">News Feed</a></u></b>
-* <b><u>View the retinas for the <a href="http://i.imgur.com/RTyzm.png">Profiles</a> and the <a href="http://i.imgur.com/mrtUb.png">Modal Dialogs</a></u></b>
 
 ## What should I know?
 * I've only worked on it a single day, obviously it's not released yet, just want to clarify right away
