@@ -45,6 +45,12 @@ And for the screens:
 
 
 ## Changelog: What has been done?
+### 1-12-2013
+* Local Storage caching, blazing fast
+* "Shake to Clear Cache" feature
+* Began single repo screen
+* Tightened some UI
+
 ### 1-11-2013
 * Created Starred List
 * Created User Activities List
