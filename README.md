@@ -2,7 +2,8 @@ Github Mobile
 =============
 
 Watch this repo to get alerts about this project.
-v
+
+
 <img src="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/vanity/vanity.jpeg">
 
 * <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/login_v1.png">Login Screen</a> and the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/news_v1.png">News Feed</a></u></b>
