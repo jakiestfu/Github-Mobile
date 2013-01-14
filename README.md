@@ -51,10 +51,12 @@ And for the screens:
 * Repo Page
 * Repo Readme
 * Repo File traversing and viewing, currently supported is text (js, php, css, etc) and images
+* Watch/Unwatch functionality
+* Star/Fork Button Counts
 * <a href="https://raw.github.com/jakiestfu/Github-Mobile/master/screens/real/cache_v1.png" target="_blank">"Shake to clear cache" experiment with modal window</a>
 
-#### Notes for 1-13-2013
-I am concerned about a few major flaws in the application. Push.js from Ratchet is really annoying, but necessary, it is just a pain in the ass to extend, the flow of the app is weak.
+##### Notes for 1-13-2013
+I am concerned about a few major flaws in the application. Push.js from Ratchet is really annoying, but necessary, it is just a pain in the ass to extend, the flow of the app is weak. Will do an overhaul of that once everything is set in place.
 
 ### 1-12-2013
 * Local Storage caching, blazing fast
