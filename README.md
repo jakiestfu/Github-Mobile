@@ -9,7 +9,7 @@ Watch this repo to get alerts about this project.
 * <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/login_v1.png">Login Screen</a> and the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/news_v1.png">News Feed</a></u></b>
 * <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/profiles_v1.png">Profiles V1</a> and the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/modals_v1.png">Modal Dialogs</a></u></b>
 * <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/profiles_v2.png">Profiles V2</a>, <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/activity_list.png">Activities</a>, <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/starred_list.png">Starred Repos</a>, and <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/repo_list.png">Repos list</a></u></b>
-
+* <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/repos/repo_v1.png" target="_blank">Repo Landing Page</a>, <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/repos/repo_readme_v1.png" target="_blank">Repo Readme</a>, and <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/repos/repo_files_v1.png" target="_blank">Repo Files list</a></u></b>
 
 ## What should I know?
 * I've only worked on it a single day, obviously it's not released yet, just want to clarify right away
@@ -46,6 +46,16 @@ And for the screens:
 
 
 ## Changelog: What has been done?
+### 1-13-2013
+* Refactored User/Repo section
+* Repo Page
+* Repo Readme
+* Repo File traversing and viewing, currently supported is text (js, php, css, etc) and images
+* <a href="https://raw.github.com/jakiestfu/Github-Mobile/master/screens/real/cache_v1.png" target="_blank">"Shake to clear cache" experiment with modal window</a>
+
+#### Notes for 1-13-2013
+I am concerned about a few major flaws in the application. Push.js from Ratchet is really annoying, but necessary, it is just a pain in the ass to extend, the flow of the app is weak.
+
 ### 1-12-2013
 * Local Storage caching, blazing fast
 * "Shake to Clear Cache" feature
