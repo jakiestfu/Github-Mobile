@@ -46,6 +46,9 @@ And for the screens:
 
 
 ## Changelog: What has been done?
+### 1-14-2013
+* Took a hiatus this day. Coming back fresh ensures this project continues at an awesome rate.
+
 ### 1-13-2013
 * Refactored User/Repo section
 * Repo Page
