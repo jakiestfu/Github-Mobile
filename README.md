@@ -10,6 +10,8 @@ Watch this repo to get alerts about this project.
 * <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/profiles_v1.png">Profiles V1</a> and the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/modals_v1.png">Modal Dialogs</a></u></b>
 * <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/profiles_v2.png">Profiles V2</a>, <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/activity_list.png">Activities</a>, <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/starred_list.png">Starred Repos</a>, and <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/repo_list.png">Repos list</a></u></b>
 * <b><u>View the retinas for the <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/repos/repo_v1.png" target="_blank">Repo Landing Page</a>, <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/repos/repo_readme_v1.png" target="_blank">Repo Readme</a>, and <a href="https://github.com/jakiestfu/Github-Mobile/raw/master/screens/real/repos/repo_files_v1.png" target="_blank">Repo Files list</a></u></b>
+* <b><u>View the retina for the <a href="https://raw.github.com/jakiestfu/Github-Mobile/master/screens/real/backpane.png" target="_blank">BackPane</a></u></b>
+
 
 ## What should I know?
 * I've only worked on it a single day, obviously it's not released yet, just want to clarify right away
@@ -46,6 +48,12 @@ And for the screens:
 
 
 ## Changelog: What has been done?
+### 1-15-2013
+* Created initial backpane design
+* Logout/session destroying
+* Began initial stages for search setup
+* Redesigning Issues to look less like the GitHub Issues app and more like this app itself
+
 ### 1-14-2013
 * Took a hiatus this day. Coming back fresh ensures this project continues at an awesome rate.
 
