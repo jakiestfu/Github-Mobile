@@ -48,6 +48,12 @@ And for the screens:
 
 
 ## Changelog: What has been done?
+### 1-16-2013
+* Incorporated <a href="https://github.com/ftlabs/fastclick" target="_blank">FastClick</a>, feels almost native!
+* Updated Shelf contents and animations
+* Finally reworking the back button. I will provide an extensive writeup about the pitfalls and challenges I have faced while developing this mobile app with Ratchet.
+* Fixed issues of `translate3d` giving me hell if elements position is set to fixed
+
 ### 1-15-2013
 * Created initial backpane design
 * Logout/session destroying
